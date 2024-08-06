@@ -29,7 +29,7 @@ Ensure you have Python installed. This script is compatible with Python 3
 3. Run the script using the following command:
 
     ```bash
-    main.py
+    python main.py
     ```
 
 4. Follow the prompts:
