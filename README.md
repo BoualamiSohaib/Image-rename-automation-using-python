@@ -1,4 +1,4 @@
-#Image renamer in Python
+# Image renamer in Python
 # Overview
 
 This project is a Python script designed to help users rename image files in a specified directory. The script collects image files with specified extensions (JPG, PNG, GIF), sorts them, and renames them sequentially with a user-specified prefix. The renamed files are then saved in the same directory. Notifications are provided upon successful renaming of each file.
